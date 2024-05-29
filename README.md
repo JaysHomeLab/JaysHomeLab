@@ -1,7 +1,5 @@
 # Hello, I'm Jay
-<a href="www.linkedin.com/in/
--smith-b7454926a
-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/-smith-b7454926a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a self study learner with a profound interest in technology and a dedication to solving complex problems.
