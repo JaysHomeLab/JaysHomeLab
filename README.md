@@ -31,6 +31,15 @@ My journey in coding has led me to develop a passion for cybersecurity and netwo
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Laungage
+## Programming languages
 </div>
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+
+## Currently learning 
+<div>
+- A+ . I have the knowledge but haven't tested
+- Network+ . I have the knowledge but haven't tested
+- 
+
+</div>
