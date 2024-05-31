@@ -14,7 +14,6 @@ My journey in coding has led me to develop a passion for cybersecurity and netwo
 ##
 
 Here are some ways to see my work and resume.
-<a href= "
 
 ## Skills
 
