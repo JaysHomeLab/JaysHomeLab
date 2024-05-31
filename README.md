@@ -1,5 +1,6 @@
 # Hello, I'm Jay
 <a href="https://linkedin.com/in/-smith-b7454926a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://profile.indeed.com/p/jimils-lyk85j4"><img src="https://img.shields.io/badge/-Indeed-003A9B?&style=for-the-badge&logo=Indeed&logoColor=white" /></a>
 
 
 I am a self study learner with a profound interest in technology and a dedication to solving complex problems.
@@ -7,6 +8,11 @@ I am a self study learner with a profound interest in technology and a dedicatio
 ## Objective
 
 My journey in coding has led me to develop a passion for cybersecurity and network security, and I am now eager to transition into this field, specifically aiming to join a Network Architect team.
+
+##
+
+Here are some ways to see my work and resume.
+<a href= "
 
 ## Skills
 
