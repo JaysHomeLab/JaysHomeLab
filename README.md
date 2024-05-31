@@ -1,6 +1,8 @@
 # Hello, I'm Jay
 <a href="https://linkedin.com/in/-smith-b7454926a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://profile.indeed.com/p/jimils-lyk85j4"><img src="https://img.shields.io/badge/-Indeed-003A9B?&style=for-the-badge&logo=Indeed&logoColor=white" /></a>
+<a href="https://www.codewars.com/users/JaysHomeLab"><img src="https://img.shields.io/badge/-Codewars-B1361E?&style=for-the-badge&logo=Codewars&logoColor=white" /></a>
+<a href="https://app.hackthebox.com/profile/1966951"><img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" />
 
 
 I am a self study learner with a profound interest in technology and a dedication to solving complex problems.
