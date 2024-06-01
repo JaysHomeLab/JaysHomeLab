@@ -17,12 +17,12 @@ Here are some ways to see my work and resume.
 
 ## Skills
 
-| Skill                                         | Associated Project                                             |
-|-----------------------------------------------|----------------------------------------------------------------|
-| Python - portscanning - codin                 | <a href="https://github.com/JaysHomeLab/Python_Mailing-Client">|
-| Python - automated mailing - coding           | <a href="https://github.com/JaysHomeLab/Python_Mailing-Client">|
-| Css - Html - javascript - website design      |  comming soon                                                  |
-|                                               |                                                                |
+| Skill                                         | Associated Project                                              |
+|-----------------------------------------------|---------------------------------------------------------------- |
+| Python - portscanning - codin                 | <a href="https://github.com/JaysHomeLab/Port_scanner"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a> |
+| Python - automated mailing - coding           | <a href="https://github.com/JaysHomeLab/Python_Mailing-Client"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a> |
+| Css - Html - javascript - website design      |  comming soon                                                   |
+|                                               |                                                                 |
 
 ## Tools
 
@@ -39,6 +39,10 @@ Here are some ways to see my work and resume.
 ## Programming languages
 </div>
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+<img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
+
 </div>
 
 ## Currently learning 
