@@ -17,12 +17,12 @@ Here are some ways to see my work and resume.
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
+| Skill                                         | Associated Project                                             |
+|-----------------------------------------------|----------------------------------------------------------------|
+| Python - portscanning - codin                 | <a href="https://github.com/JaysHomeLab/Python_Mailing-Client">|
+| Python - automated mailing - coding           | <a href="https://github.com/JaysHomeLab/Python_Mailing-Client">|
+| Css - Html - javascript - website design      |  comming soon                                                  |
+|                                               |                                                                |
 
 ## Tools
 
