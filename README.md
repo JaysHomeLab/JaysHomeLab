@@ -26,10 +26,12 @@ Here are some ways to see my work and resume.
 
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+|       Tools         |                     |                     |                       |                       |                                                                                   
+|---------------------|---------------------|---------------------|-----------------------|---------------------- |
+|<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> | <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> | <img src="https://img.shields.io/badge/-PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" /> |
+
+
+
 
 ## Certifications
 <div>
