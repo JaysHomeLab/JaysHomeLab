@@ -19,9 +19,9 @@ Here are some ways to see my work and resume.
 
 | Skill                                         | Associated Project                                              |
 |-----------------------------------------------|---------------------------------------------------------------- |
-| Python - portscanning - codin                 | <a href="https://github.com/JaysHomeLab/Port_scanner" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a> |
-| Python - automated mailing - coding           | <a href="https://github.com/JaysHomeLab/Python_Mailing-Client" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a> |
-| Css - Html - javascript - website design      |  <a href="https://jayshomelab.github.io/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a> |
+| Python - portscanning - codin                 | <a href="https://github.com/JaysHomeLab/Port_scanner"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a> |
+| Python - automated mailing - coding           | <a href="https://github.com/JaysHomeLab/Python_Mailing-Client"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a> |
+| Css - Html - javascript - website design      |  <a href="https://jayshomelab.github.io/"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a> |
 
 
 ## Tools
