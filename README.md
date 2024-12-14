@@ -9,15 +9,15 @@ I am a self study learner with a profound interest in technology and a dedicatio
 
 ## Objective
 
-My journey in coding has led me to develop a passion for cybersecurity and network security, and I am now eager to transition into this field, specifically aiming to join a Network Architect team.
+My journey in coding has led me to develop a passion for coding and AWS, and I am now eager to transition into this field, specifically aiming to join a AWS Cloud Architect team.
 
 ##
 
-Here are some ways to see my work and resume.
+Here are some ways to see my work.
 
 ## Skills
 
-| Skill                                         | Associated Project                                              |
+| Skill / Work                                        | Associated Project                                              |
 |-----------------------------------------------|---------------------------------------------------------------- |
 | Python - portscanning - codin                 | <a href="https://github.com/JaysHomeLab/Port_scanner"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a> |
 | Python - automated mailing - coding           | <a href="https://github.com/JaysHomeLab/Python_Mailing-Client"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a> |
@@ -48,8 +48,12 @@ Here are some ways to see my work and resume.
 
 ## Currently learning 
 <div>
-- A+ . I have the knowledge but haven't tested
-- Network+ . I have the knowledge but haven't tested
-- 
+- AWS Cloud practitioner . I will be testing in 2025
+  
+- AWS Certified SysOps Administrator . I will be testing in 2025
+ 
+- AWS Certified Solutions Architect - Associate . I will be testing in 2025
+ 
+- AWS Certified Solutions Architect - Professional . I will be testing in 2025
 
 </div>
