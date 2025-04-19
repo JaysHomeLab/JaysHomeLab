@@ -48,12 +48,9 @@ Here are some ways to see my work.
 
 ## Currently learning 
 <div>
-- AWS Cloud practitioner . I will be testing in 2025
   
-- AWS Certified SysOps Administrator . I will be testing in 2025
+- AWS Cloud 
+  
+- C++
  
-- AWS Certified Solutions Architect - Associate . I will be testing in 2025
- 
-- AWS Certified Solutions Architect - Professional . I will be testing in 2025
-
 </div>
